@@ -1,6 +1,4 @@
-# Android-App-Market
-
-# Comprehensive Analysis of Google Play Store Apps and Reviews
+# Analysis of Google Play Store Apps and Reviews
 
 ## Project Overview
 Mobile apps are ubiquitous and lucrative, leading to a constant influx of new apps. This project provides a comprehensive analysis of the Android app market by examining over ten thousand apps from Google Play across various categories. The goal is to uncover insights that can help devise strategies to drive growth and retention.
